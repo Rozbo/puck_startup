@@ -1,0 +1,19 @@
+{
+    "name": "rozbo/mt4",
+    "type": "project",
+    "require": {
+        "rozbo/puck": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "rozbo",
+            "email": "75200306@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload":{
+        "psr-4":{
+            "app\\":"app"
+        }
+    }
+}
